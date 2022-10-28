@@ -27,3 +27,5 @@
 - [Algoritmos e estruturas de dados em JavaScript](https://www.freecodecamp.org/portuguese/learn/javascript-algorithms-and-data-structures/), por FreeCodeCamp (Dica do [gildoneto](https://github.com/gildoneto))
 
 - [Eloquent Javascript](https://eloquentjavascript.net/), por Marijn Haverbeke (dica do [Tony Lima](https://github.com/tony-matheus)) #ENG e #PTBR;
+
+- [Jogo da memoria com JavaScript | Parte 1: Login | Criando jogo com JavaScript, HTML e CSS](https://www.youtube.com/watch?v=NV88N1r2Qkg&t=106s), por Manual do Dev (dica do [Natan Alves](https://github.com/natanignacioalves));
